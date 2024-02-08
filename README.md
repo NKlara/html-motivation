@@ -1,2 +1,2 @@
 # html-motivation
-Motivation mem
+Motivation meme
